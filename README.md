@@ -28,7 +28,7 @@
 - Защита от отсутствия воды — автоматическое отключение и индикация при обнаружении пустого резервуара
 
 ## Принципиальная схема
-<img width="1622" height="1191" alt="image" src="https://github.com/user-attachments/assets/163229c2-7250-48c0-8ea4-fddc72100bcd" />
+<img width="1637" height="1222" alt="image" src="https://github.com/user-attachments/assets/8825bda5-937a-42ef-a242-13d07de2cb22" />
 
 В устройстве реализована трёхуровневая система питания:
 
