@@ -90,7 +90,7 @@ $$V_{OUT} = f_{IN} \times V_{REF} \times \frac{R_L}{R_S} \times (R_f C_f)$$
 
 Расчет при влажности 40% ($f_{IN} = 6760$ Гц):
 
-$$V_{OUT} = 6760Гц \times 1,89В \times \frac{100кОм}{10кОм} \times (6.81кОм\times 0,01мкФ) \approx 8,71 В$$
+$$V_{OUT} = 6760Гц \times 1,89В \times \frac{100кОм}{10кОм} \times (6,81кОм\times 0,01мкФ) \approx 8,71 В$$
 
 Практические измеренные значения совпадает на уровне 10-20 мВ
 <img width="1989" height="1125" alt="IMG_0618" src="https://github.com/user-attachments/assets/f89c3755-5af1-4048-af81-39810b3cb367" />
