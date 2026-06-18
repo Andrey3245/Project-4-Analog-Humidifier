@@ -178,5 +178,5 @@ $$
 <img width="3024" height="2677" alt="IMG_0709" src="https://github.com/user-attachments/assets/095b3556-98bc-43bb-a3e3-c5bb9d8b527f" />
 
 ## Демонстрация работы устройства
-Конструкция и функционал — [на видео Rutube:]([https://rutube.ru/video/3ce10999c399df10eb7bf1773349d099/](https://rutube.ru/shorts/641ee87b57236966e0b463477e368397/?r=wd))
+Конструкция и функционал — [на видео Rutube:](https://rutube.ru/shorts/641ee87b57236966e0b463477e368397/)
 ## Итог
